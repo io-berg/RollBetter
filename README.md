@@ -1,4 +1,6 @@
 Install tampermonkey and then add this script to it.
+You will always see the roll in your chat, but other people will only see if average roll is above 10. 
+Try it by joining the same game from another browser.
 
 Dont cheat in real games, or do, I'm not your mom.
 

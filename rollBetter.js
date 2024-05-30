@@ -54,7 +54,7 @@
 
         if (averageRoll < 10) {
             if (confirm(`Your average roll is ${averageRoll}, Would you like to reroll?`)) {
-                // TODO: Add reroll logic here
+                // TODO: Add reroll logic here, for now just click the roll button again.
                 return 
             } else {
                 return wsSend(this, arguments);
